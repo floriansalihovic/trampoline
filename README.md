@@ -15,12 +15,12 @@ The compiler will translate your `.java` files into `.class` files which can be 
 
 
 1. Verify your Java installation in the Terminal: `→ java -version`. An output like
-```
-Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF-8
-java version "1.8.0_91"
-Java(TM) SE Runtime Environment (build 1.8.0_91-b14)
-Java HotSpot(TM) 64-Bit Server VM (build 25.91-b14, mixed mode)
-```
+    ```
+    Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF-8
+    java version "1.8.0_91"
+    Java(TM) SE Runtime Environment (build 1.8.0_91-b14)
+    Java HotSpot(TM) 64-Bit Server VM (build 25.91-b14, mixed mode)
+    ```
 
 2. Create a Java application in a file named the same as class you are implementing:
 ```
