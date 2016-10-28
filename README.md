@@ -62,3 +62,9 @@ The command line at first. Why? Your programs are small and the command line is 
     ```
     git init .
     ```
+
+## Naming
+
+#### Classes
+
+Classes begin with an uppercase letter and follow the camalcase conventions.
